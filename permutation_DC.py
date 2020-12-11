@@ -50,3 +50,18 @@ r=int(raw_input(""))  #reading r
 
 b=[0]*r  #an empty list to store the elements initialised with zero
 combination(a,b,0,n-1,0,r)
+
+"""method of input/output(example)
+-input format
+A B C
+2
+
+-output
+AB
+BA
+AC
+CA
+BC
+CB
+"""
+
