@@ -25,3 +25,16 @@ k = map(''.join,list(permutations(I[0],int(I[1]))))
 
 for i in k:
     print ''.join(i) #printing each element 
+
+  
+"""method of input/output(example)
+-input format
+SIT 2
+-output
+SI
+ST
+IS
+IT
+TS
+TI
+"""
